@@ -1,4 +1,4 @@
-# Image table OCR in Excel file using Python with PHP 
+# Image table OCR in Excel file using PHP with Python
 
 ## Requirements for Windows
 * PHP : >= 7.1 
