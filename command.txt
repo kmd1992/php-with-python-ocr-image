@@ -1,0 +1,29 @@
+python3 --version
+python --version
+python main.py
+pip --version
+pip install opencv-python
+python --version
+pip install --user package
+python -m pip install -U pip --user
+pip install opencv-python
+clear
+python main.py
+pip install pandas
+python main.py
+pip install matplotlib
+python -m pip install --upgrade pip --user
+pip install matplotlib
+clear
+python main.py
+pip install pytesseract
+python -m pip install --upgrade pip --user
+pip install pytesseract
+python main.py
+pip install Jinja2
+clear
+pip install Jinja2
+pip install Jinja2
+python main.py
+pip install openpyxl
+python main.py
